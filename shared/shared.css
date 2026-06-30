@@ -1,1 +1,11 @@
+.xnav {
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+}
 
+.xnav a {
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+`
